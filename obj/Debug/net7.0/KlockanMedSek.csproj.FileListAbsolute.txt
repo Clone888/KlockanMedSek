@@ -1,0 +1,14 @@
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\bin\Debug\net7.0\KlockanMedSek.exe
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\bin\Debug\net7.0\KlockanMedSek.deps.json
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\bin\Debug\net7.0\KlockanMedSek.runtimeconfig.json
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\bin\Debug\net7.0\KlockanMedSek.dll
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\bin\Debug\net7.0\KlockanMedSek.pdb
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\obj\Debug\net7.0\KlockanMedSek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\obj\Debug\net7.0\KlockanMedSek.AssemblyInfoInputs.cache
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\obj\Debug\net7.0\KlockanMedSek.AssemblyInfo.cs
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\obj\Debug\net7.0\KlockanMedSek.csproj.CoreCompileInputs.cache
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\obj\Debug\net7.0\KlockanMedSek.dll
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\obj\Debug\net7.0\refint\KlockanMedSek.dll
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\obj\Debug\net7.0\KlockanMedSek.pdb
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\obj\Debug\net7.0\KlockanMedSek.genruntimeconfig.cache
+C:\Users\smurf\source\repos\programmeringGrund\KlockanMedSek\obj\Debug\net7.0\ref\KlockanMedSek.dll
